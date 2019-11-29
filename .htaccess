@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Sai daí, na moral"
+AuthUserFile .htpasswd
+Require valid-user
